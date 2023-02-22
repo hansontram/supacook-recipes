@@ -1,4 +1,4 @@
-# My Awesome Project
+# SupaCook Recipe Generator
 Have you ever been stuck on deciding what to make for lunch / dinner?
 This is a web application that allows users to input an ingredient they desire and generates recipes from the EDAMAM API.
 
