@@ -4,6 +4,7 @@ This is a web application that allows users to input an ingredient they desire a
 
 **Link to project:** https://supacook.netlify.app/
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/97640502/220733163-fc90323b-66be-4e4e-aebf-7170ec1d1a0e.gif)
 
 
 ## How It's Made:
